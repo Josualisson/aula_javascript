@@ -1,2 +1,2 @@
-# aula_javascript
-Introdução ao JavaScript
+# aula javascript DIO
+## Algumas coisas básicas de javascript (iniciante)
